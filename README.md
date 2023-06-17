@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
-<img align="right" alt="not found" width="400" src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chusman3057&label=Profile%20views&color=0e75b6&style=flat" alt="chusman3057" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
